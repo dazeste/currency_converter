@@ -12,6 +12,7 @@ body{
   justify-content: center;
   min-height: 100vh;
   background-color: GoldenRod;
+  color:#333;
 }
 .wrapper{
   background: white;
